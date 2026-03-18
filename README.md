@@ -1,4 +1,4 @@
-# 🏖️ Booki — Intégration HTML & CSS
+# Booki — Intégration HTML & CSS
 
 Projet de formation OpenClassrooms : créer la page d'accueil d'une agence de voyage en intégrant une maquette Figma en **HTML et CSS purs**.
 
