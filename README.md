@@ -75,24 +75,21 @@ Pour que Companion analyse votre code, **gardez `index.html` et `css/style.css` 
 
 ## 📁 Structure du repository
 
-```
-booki/
+Test-Booki-avec-Companion/
 ├── index.html
+├── README.md
+├── agents.md 
+├── .vscode/
 ├── css/
-│   └── style.css
 ├── images/
-│   ├── logo/
-│   ├── hebergements/
-│   └── activites/
 └── companion/
-    └── 01-identite-contexte.agent.md
-    └── 02-approche-pedagogique.agent.md
-    └── 03-presentation-projet-booki.agent.md
-    └── 04-starter-pack-etudiant.agent.md
-    └── 05-specifications-fonctionnelles.agent.md
-    └── 06-specifications-techniques.agent.md
+    ├── 01-identite-contexte.agent.md
+    ├── 02-approche-pedagogique.agent.md
+    ├── 03-presentation-projet-booki.agent.md
+    ├── 04-starter-pack-etudiant.agent.md
+    ├── 05-specifications-fonctionnelles.agent.md
+    ├── 06-specifications-techniques.agent.md
     └── 07-checklist-validation.agent.md
-```
 
 ---
 
