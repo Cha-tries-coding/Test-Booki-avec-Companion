@@ -49,40 +49,25 @@ Ce repository inclut **Companion**, un assistant pédagogique configuré pour vo
 
 ### 1. Ouvrir le Chat Copilot
 
-Cliquez sur l'icône **Copilot Chat** dans la barre latérale gauche, ou utilisez le raccourci :
+Cliquez sur l'icône **Toggle Chat** à droite de la barre de recherche de commande. 
 
-```
-Ctrl + Alt + I  (Windows / Linux)
-Cmd + Option + I  (macOS)
-```
-
-### 2. Sélectionner le bon agent
-
-En bas de la fenêtre de chat, cliquez sur le sélecteur de fichier 📎 et choisissez :
-
-```
-01-identite-contexte.agent.md
-```
-
-> Cela permet à Copilot d'activer le contexte de Companion.
-
-### 3. Poser vos questions
+### 2. Poser vos questions
 
 Posez vos questions directement en langage naturel, en français :
 
 ```
-Comment structurer la section hébergements en HTML ?
+Je dois faire quoi pour la section hébergements en HTML ?
 ```
 
 ```
-Mon header ne s'aligne pas correctement, qu'est-ce que je peux vérifier ?
+Mon header ne s'aligne pas correctement, comment vérifier ?
 ```
 
 ```
-Quelle media query dois-je utiliser pour le mobile ?
+Quelle media utiliser pour le mobile, je comprends pas ?
 ```
 
-### 4. Ouvrir vos fichiers dans l'éditeur
+### 3. Ouvrir vos fichiers dans l'éditeur
 
 Pour que Companion analyse votre code, **gardez `index.html` et `css/style.css` ouverts** dans l'éditeur avant de poser une question. Copilot inclura automatiquement leur contenu dans le contexte.
 
