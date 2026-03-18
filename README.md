@@ -78,7 +78,7 @@ Pour que Companion analyse votre code, **gardez `index.html` et `css/style.css` 
 Test-Booki-avec-Companion/
 ├── index.html
 ├── README.md
-├── agents.md 
+├── agents.md
 ├── .vscode/
 ├── css/
 ├── images/
