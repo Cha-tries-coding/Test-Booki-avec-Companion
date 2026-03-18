@@ -58,28 +58,28 @@ Cmd + Option + I  (macOS)
 
 ### 2. Sélectionner le bon agent
 
-En bas de la fenêtre de chat, cliquez sur le sélecteur de mode et choisissez :
+En bas de la fenêtre de chat, cliquez sur le sélecteur de fichier 📎 et choisissez :
 
 ```
-@workspace
+01-identite-contexte.agent.md
 ```
 
-> Cela permet à Copilot de lire les fichiers `.agent.md` de ce repository et d'activer le contexte de Companion.
+> Cela permet à Copilot d'activer le contexte de Companion.
 
 ### 3. Poser vos questions
 
 Posez vos questions directement en langage naturel, en français :
 
 ```
-@workspace Comment structurer la section hébergements en HTML ?
+Comment structurer la section hébergements en HTML ?
 ```
 
 ```
-@workspace Mon header ne s'aligne pas correctement, qu'est-ce que je peux vérifier ?
+Mon header ne s'aligne pas correctement, qu'est-ce que je peux vérifier ?
 ```
 
 ```
-@workspace Quelle media query dois-je utiliser pour le mobile ?
+Quelle media query dois-je utiliser pour le mobile ?
 ```
 
 ### 4. Ouvrir vos fichiers dans l'éditeur
@@ -99,7 +99,7 @@ booki/
 │   ├── logo/
 │   ├── hebergements/
 │   └── activites/
-└── .github/
+└── companion/
     └── 01-identite-contexte.agent.md
     └── 02-approche-pedagogique.agent.md
     └── 03-presentation-projet-booki.agent.md
