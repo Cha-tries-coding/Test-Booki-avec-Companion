@@ -75,6 +75,7 @@ Pour que Companion analyse votre code, **gardez `index.html` et `css/style.css` 
 
 ## 📁 Structure du repository
 
+```
 Test-Booki-avec-Companion/
 ├── index.html
 ├── README.md
@@ -90,7 +91,7 @@ Test-Booki-avec-Companion/
     ├── 05-specifications-fonctionnelles.agent.md
     ├── 06-specifications-techniques.agent.md
     └── 07-checklist-validation.agent.md
-
+```
 ---
 
 ## 💡 Conseils pour bien démarrer
